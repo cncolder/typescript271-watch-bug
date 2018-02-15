@@ -1,0 +1,13 @@
+{
+    "name": "typescript271-watch-bug",
+    "private": true,
+    "version": "0.0.1",
+    "license": "MIT",
+    "scripts": {
+        "start": "tsc -w"
+    },
+    "devDependencies": {
+        "@types/node": "^9.4.6",
+        "typescript": "^2.7.1"
+    }
+}
