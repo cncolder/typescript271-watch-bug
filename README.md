@@ -1,5 +1,7 @@
 # typescript271-watch-bug
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/cncolder/typescript271-watch-bug.svg)](https://greenkeeper.io/)
+
 Run `npm start`.
 
 The first time generated `index.js` like this:
